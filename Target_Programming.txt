@@ -1,3 +1,6 @@
 Target menuju programming
 * Mengerti Dasar Program
 * Dapat membuat Program sendiri
+
+
+* Tri Hariyanto was here
